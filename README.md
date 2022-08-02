@@ -1,6 +1,6 @@
 
 # This is my final project which I have designed and deployed using Static Web App resource of Azure by Amit Mishra.
-## In my website I have created a fashion store named Dress Up that helps to find cheap rates and good quality products to help people to fulfill their desired needs.
+## In my website I have created a fashion store named Sprystore that helps to find cheap rates and good quality products to help people to fulfill their desired needs.
 # My website link https://victorious-ground-05c131e10.1.azurestaticapps.net
 # I have attached Screenshots of my designed webpage as well as azure development
 # HOME PAGE
